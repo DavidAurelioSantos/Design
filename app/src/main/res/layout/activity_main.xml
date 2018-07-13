@@ -51,6 +51,7 @@
                 app:contentScrim="?attr/colorPrimary"
                 app:expandedTitleMarginStart="48dp"
                 app:expandedTitleMarginEnd="64dp"
+                app:collapsedTitleGravity="bottom"
                 app:title="Meu título">
 
                 <ImageView
